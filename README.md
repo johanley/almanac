@@ -28,3 +28,19 @@ Abbreviations for some astronomical events:
 Some days have no diagram for the moons of Jupiter. 
 
 Those are days for which Jupiter is too close to the Sun to be observed.
+
+
+### 80%-Range
+The `80%-range` is used to give an idea of the scatter in data.
+
+The `80%-range` means that 80% of the data is within that given range, between a minimum and a maximum.
+
+### Smoothing Of Weather Data
+Weather data is inherently variable.
+Even with, say, 50 years of data, the variation in the median daily high temperature has significant scatter from one day to the next. 
+
+Because of this, in the Islander's Almanac some smoothing of such data is applied.
+Simply put, the smoothing "week-ifys" the data.
+For each day, the data for plus-and-minus 3 days on either side of the given date is added together and taken as a unit.
+
+
