@@ -39,8 +39,7 @@ The `80%-range` means that 80% of the data is within that given range, between a
 Weather data is inherently variable.
 Even with, say, 50 years of data, the variation in the median daily high temperature has significant scatter from one day to the next. 
 
-Because of this, in the Islander's Almanac some smoothing of such data is applied.
-Simply put, the smoothing "week-ifys" the data.
+Because of this, the Islander's Almanac applies some smoothing to weather data.
 For each day, the data for plus-and-minus 3 days on either side of the given date is added together and taken as a unit.
 
 
