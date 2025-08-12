@@ -7,27 +7,9 @@ Errata and background info for the Islander's Almanac.
 ### Charlottetown 2026 
 No known errors.
 
+
 ## Background Info
 
-### Abbreviations
-In the list of daily events, some cryptic abbreviations are used to make best use of the limited space.
-
-Abbreviations used for occultations:
-- `DD` disappearance at the dark limb of the Moon
-- `DB` disappearance at the bright limb of the Moon
-- `RD` reappearance at the dark limb of the Moon
-- `RB` reappearance at the bright limb of the Moon
-
-Abbreviations for some astronomical events:
-- `IC` inferior conjunction of a planet with the Sun
-- `SC` superior conjunction of a planet with the Sun
-- `GE` greatest elongation of a planet from the Sun
-
-
-### Missing Diagram for Jupiter
-Some days have no diagram for the moons of Jupiter. 
-
-Those are days for which Jupiter is too close to the Sun to be observed.
 
 ### Calculation of Weather Normals
 The Islander's Almanac uses the following algorithm for calculating weather normals,  described here using an example.
@@ -49,6 +31,28 @@ Note :
 - the idea of using plus-minus 3 days of data is used to smooth the data.
 
 This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
+
+
+### Abbreviations
+In the list of daily events, some cryptic abbreviations are used to make best use of the limited space.
+
+Abbreviations used for occultations:
+- `DD` disappearance at the dark limb of the Moon
+- `DB` disappearance at the bright limb of the Moon
+- `RD` reappearance at the dark limb of the Moon
+- `RB` reappearance at the bright limb of the Moon
+
+Abbreviations for some astronomical events:
+- `IC` inferior conjunction of a planet with the Sun
+- `SC` superior conjunction of a planet with the Sun
+- `GE` greatest elongation of a planet from the Sun
+
+
+### Missing Diagram for Jupiter
+Some days have no diagram for the moons of Jupiter. 
+
+Those are days for which Jupiter is too close to the Sun to be observed.
+
 
 
 
