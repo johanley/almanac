@@ -37,8 +37,9 @@ The Islander's Almanac uses the following algorithm for calculating weather norm
 - use daily-high data for the *Charlottetown A* weather station (the airport) over a long period; let's say there are 51 years of data
 - use plus-minus 3 days on either side of March 10, that is, *March 7 to March 13 inclusive*
 - gather together all the daily highs for those 7 days, across all 51 years (*7 x 51 = 357* readings)
-- sort the 357 readings from lowest to highest
-- select the reading in the middle (the median value) as the normal high temperature for March 10 for Charlottetown
+- sort/list the 357 readings from lowest to highest
+- select the reading in the middle of the list (the median value) as the normal high temperature for March 10 for Charlottetown
+- to find the *80%-range* for the data, drop the top and bottom 10% of the values in the list; this is a measure of the spread in the data
 
 This technique uses *median* values, not *average/mean* values. This avoids some minor skew from extreme values.
 
@@ -46,16 +47,6 @@ This technique uses *median* values, not *average/mean* values. This avoids some
 
 This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
 
-### 80%-Range
-The `80%-range` is used to give an idea of the scatter in data.
-
-The `80%-range` means that 80% of the data is within that given range, between a minimum and a maximum.
-
-### Smoothing Of Weather Data
-Weather data is inherently variable.
-Even with, say, 50 years of data, the variation in the median daily high temperature has significant scatter from one day to the next. 
-
-Because of this, the Islander's Almanac applies some smoothing to weather data.
-For each day, the data for plus-and-minus 3 days on either side of the given date is gathered together and taken as a unit.
+The idea of using plus-minus 3 days of data is used to smooth the data.
 
 
