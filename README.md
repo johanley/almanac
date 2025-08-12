@@ -62,8 +62,6 @@ The *hour angle* of an object in the sky is the number of hours since it was due
 An hour angle of *2h* means an object was due south 2 hours ago.
 An hour angle of *22h* means an object will be due south in 2 hours.
 
-You can think of the hour angle of the Moon as being a kind of *Moon time*.
-
 The idea is that, in many places (such as Charlottetown, on the south shore), the time of high or low tide is correlated fairly well with the hour angle of the Moon.
 In some places, however, the correlation is poor (such as Stanhope, on the north shore).
 
