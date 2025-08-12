@@ -42,6 +42,8 @@ The Islander's Almanac uses the following algorithm for calculating weather norm
 
 This technique uses median values, not mean values. This avoids some minor skew from extreme values.
 
+(Note as well: data for leap days February 29 are coerced into data for March 1).
+
 This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
 
 ### 80%-Range
