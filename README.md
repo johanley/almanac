@@ -1,6 +1,6 @@
 # Islander's Almanac
 
-Errata and background info for the Islander's Almanac. 
+Errata and background info for the *Islander's Almanac*. 
 
 ## Known Errors
 
