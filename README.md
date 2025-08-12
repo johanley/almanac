@@ -44,8 +44,8 @@ The Islander's Almanac uses the following algorithm for calculating weather norm
 
 Note :
 - this technique uses *median* values, not *average/mean* values. This avoids some minor skew from extreme values.
-- data for leap days February 29 are coerced into data for March 1)
-- and the start and end of the year, the data is "wrapped around": for Jan 1, plus-minus 3 days gives the dates December 29 to January 4.
+- data for leap days *February 29* are coerced into data for *March 1*
+- and the start and end of the year, the data is "wrapped around": for January 1, plus-minus 3 days gives the date range December 29 to January 4.
 - the idea of using plus-minus 3 days of data is used to smooth the data.
 
 This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
