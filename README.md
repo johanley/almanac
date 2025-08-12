@@ -40,7 +40,7 @@ The Islander's Almanac uses the following algorithm for calculating weather norm
 - sort the 357 readings from lowest to highest
 - select the reading in the middle (the median value) as the normal high temperature for March 10 for Charlottetown
 
-This technique uses median values, not mean values. This avoids some minor skew from extreme values.
+This technique uses *median* values, not *average/mean* values. This avoids some minor skew from extreme values.
 
 (Note as well: data for leap days February 29 are coerced into data for March 1).
 
