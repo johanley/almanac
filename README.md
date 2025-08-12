@@ -30,7 +30,7 @@ Note :
 - data for leap days *February 29* are coerced into data for *March 1*.
 - and the start and end of the year, the data is *wrapped around*: for *January 1*, plus-minus 3 days gives the date range *December 29 to January 4 inclusive*.
 - the idea of using plus-minus 3 days of data is used to smooth the data.
-- when the median value is not centered in the corresponding 80%-range, that means there's some skew in the data.
+- when the median value is not centered in the corresponding 80%-range, that means there's some skew in the data (which is useful to know).
 
 
 This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
