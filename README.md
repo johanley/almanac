@@ -17,7 +17,7 @@ The *Islander's Almanac* uses the following algorithm for calculating weather no
 *What is the normal high temperature for Charlottetown for March 10?*
 
 - use daily-high temperature data for the *Charlottetown A* weather station (the airport) over a long period; let's say there are 51 years of data
-- use plus-minus 3 days on either side of March 10, that is, *March 7 to March 13 inclusive*
+- use plus-minus 3 days on either side of *March 10*, that is, *March 7 to March 13 inclusive*
 - gather together all the daily highs for those 7 days, across all 51 years (*7 x 51 = 357* readings)
 - sort/list the 357 readings from lowest to highest
 - select the reading in the middle of the list (the *median* value) as the normal high temperature for March 10 for Charlottetown
@@ -28,7 +28,7 @@ The daily high temperature value is in this range 80% of the time (in the given 
 Note :
 - this technique uses *median* values, not *average/mean* values. This avoids some minor skew from extreme values.
 - data for leap days *February 29* are coerced into data for *March 1*.
-- and the start and end of the year, the data is *wrapped around*: for January 1, plus-minus 3 days gives the date range December 29 to January 4.
+- and the start and end of the year, the data is *wrapped around*: for *January 1*, plus-minus 3 days gives the date range *December 29 to January 4 inclusive*.
 - the idea of using plus-minus 3 days of data is used to smooth the data.
 - when the median value is not centered in the corresponding 80%-range, that means there's some skew in the data.
 
