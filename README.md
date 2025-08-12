@@ -33,7 +33,7 @@ Note :
 - when the median value is not centered in the corresponding 80%-range, that means there's some skew in the data (which is useful to know).
 
 
-This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
+**This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.**
 
 
 ### Abbreviations
