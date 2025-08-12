@@ -39,14 +39,16 @@ The Islander's Almanac uses the following algorithm for calculating weather norm
 - gather together all the daily highs for those 7 days, across all 51 years (*7 x 51 = 357* readings)
 - sort/list the 357 readings from lowest to highest
 - select the reading in the middle of the list (the median value) as the normal high temperature for March 10 for Charlottetown
-- to find the *80%-range* for the data, drop the top and bottom 10% of the values in the list; this is a measure of the spread in the data
+- to find the *80%-range* for the daily high at Charlottetown on March 10, drop the top and bottom 10% of the values in the list; this is a measure of the spread in the data
 
-This technique uses *median* values, not *average/mean* values. This avoids some minor skew from extreme values.
 
-(Note as well: data for leap days February 29 are coerced into data for March 1).
+Note :
+- this technique uses *median* values, not *average/mean* values. This avoids some minor skew from extreme values.
+- data for leap days February 29 are coerced into data for March 1)
+- and the start and end of the year, the data is "wrapped around": for Jan 1, plus-minus 3 days gives the dates December 29 to January 4.
+- the idea of using plus-minus 3 days of data is used to smooth the data.
 
 This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.
 
-The idea of using plus-minus 3 days of data is used to smooth the data.
 
 
