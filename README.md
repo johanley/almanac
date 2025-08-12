@@ -12,7 +12,7 @@ No known errors.
 
 
 ### Calculation of Weather Normals
-The Islander's Almanac uses the following algorithm for calculating weather normals,  described here using an example.
+The *Islander's Almanac* uses the following algorithm for calculating weather normals,  described here using an example.
 
 *What is the normal high temperature for Charlottetown for March 10?*
 
@@ -22,7 +22,7 @@ The Islander's Almanac uses the following algorithm for calculating weather norm
 - sort/list the 357 readings from lowest to highest
 - select the reading in the middle of the list (the median value) as the normal high temperature for March 10 for Charlottetown
 - to find the *80%-range* for the daily high at Charlottetown on March 10, drop the top and bottom 10% of the values in the list; this is a measure of the spread in the data.
-The value is in this given range 80% of the time.
+The value is in this range 80% of the time.
 
 
 Note :
