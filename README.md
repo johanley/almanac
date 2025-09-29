@@ -2,6 +2,8 @@
 
 Errata and background info for the *Islander's Almanac*. 
 
+Contact the author: johnohanley85@gmail.com
+
 ## Known Errors
 
 ### Charlottetown 2026 
