@@ -8,7 +8,9 @@ Contact the author: johnohanley85@gmail.com
 
 ### Charlottetown 2026 
 
-1. Inside front cover: the daily tide is shown as a gray curve. It should be black.
+V1:
+
+- Inside front cover: the daily tide is shown as a gray curve. It should be black.
 
 
 ## Background Info
@@ -42,6 +44,17 @@ Note :
 
 
 **This technique is not the same as the technique used by Environment Canada, so you will see small differences with their weather normals.**
+
+
+### 80%-Range
+The almanac makes use in several places of the *80%-range* of data. 
+This is used to indicate how much *spread* there is in the numbers.
+
+For example, if there are 100 data-points (numbers) in a data-set, then you get the *80%-range* of the data-set by:
+- *sorting* the data-points into a list, from low to high
+- *dropping* the first 10 data-points in the list (at the low-end), and the last 10 data-points in the list (at the high-end)
+- *selecting* the data-points at the start and end of the list
+ 
 
 
 ### Abbreviations
