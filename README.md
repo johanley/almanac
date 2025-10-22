@@ -56,7 +56,7 @@ For example, if there are 100 data-points (numbers) in a data-set, then you get 
 - *selecting* the data-points at the start and end of the new list
 
 For the daily entries in the almanac, the daily high temperature is shown as a kind of vertical "thermometer" on the right hand side.
-The black dash indicates the normal high for that day, while the enclosing grey bar indicates the 80%-range for the daily high temperature, also for that day.
+The black dash indicates the normal high for that day, while the enclosing grey bar indicates the 80%-range for the daily high temperature (also for that day).
 
 
 ### Abbreviations
