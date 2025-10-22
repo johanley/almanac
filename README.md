@@ -17,8 +17,8 @@ V1:
 
 
 ### Be Sure to Read the Explanation 
-The explanation is on the inside front cover. 
-You will need to read the explanation in order to make sense of the data in the almanac.
+The explanation of how to understand the weekly and daily graphics is presented on the inside front cover. 
+You'll need to read that explanation closely in order to make sense of the data in the almanac.
 
 
 ### Calculation of Weather Normals
