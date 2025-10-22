@@ -14,6 +14,11 @@ Contact the author: johnohanley85@gmail.com
 ## Background Info
 
 
+### Be sure to read the explanation 
+The explanation is on the inside front cover. 
+You will need to read the explanation in order to make sense of the data in the almanac.
+
+
 ### Calculation of Weather Normals
 The *Islander's Almanac* uses the following algorithm for calculating weather normals,  described here using an example.
 
