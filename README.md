@@ -53,7 +53,7 @@ This is used to indicate how much *spread* there is in the numbers.
 For example, if there are 100 data-points (numbers) in a data-set, then you get the *80%-range* of the data-set by:
 - *sorting* the data-points into a list, from low to high
 - *dropping* the first 10 data-points in the list (at the low-end), and the last 10 data-points in the list (at the high-end)
-- *selecting* the data-points at the start and end of the list
+- *selecting* the data-points at the start and end of the new list
  
 
 
