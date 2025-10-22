@@ -7,7 +7,8 @@ Contact the author: johnohanley85@gmail.com
 ## Known Errors
 
 ### Charlottetown 2026 
-No known errors.
+
+1. Inside front cover: the daily tide is shown as a gray curve. It should be black.
 
 
 ## Background Info
