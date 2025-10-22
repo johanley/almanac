@@ -14,7 +14,7 @@ Contact the author: johnohanley85@gmail.com
 ## Background Info
 
 
-### Be sure to read the explanation 
+### Be Sure to Read the Explanation 
 The explanation is on the inside front cover. 
 You will need to read the explanation in order to make sense of the data in the almanac.
 
