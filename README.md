@@ -10,7 +10,7 @@ Contact the author: johnohanley85@gmail.com
 
 V1:
 
-- Inside front cover: the daily tide is shown as a gray curve. It should be black.
+- Inside front cover: the daily tide is shown as a grey curve. It should be black.
 
 
 ## Background Info
