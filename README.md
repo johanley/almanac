@@ -2,7 +2,9 @@
 
 Background info and errata for the *Islander's Almanac*. 
 
-Sample of the content is [here](https://github.com/johanley/almanac/tree/master/2026/Charlottetown).
+[Example of the main content](https://github.com/johanley/almanac/blob/master/2026/Charlottetown/2026-charlottetown-sample.pdf).
+
+There is an [explanation on the inside front cover](https://github.com/johanley/almanac/blob/master/2026/Charlottetown/2026-charlottetown-cover.pdf).
 
 Contact the author: johnohanley85@gmail.com
 
