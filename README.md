@@ -1,6 +1,8 @@
 # Islander's Almanac
 
-Errata and background info for the *Islander's Almanac*. 
+Background info and errata for the *Islander's Almanac*. 
+
+Sample of the content is [here](https://github.com/johanley/almanac/tree/master/2026/Charlottetown).
 
 Contact the author: johnohanley85@gmail.com
 
